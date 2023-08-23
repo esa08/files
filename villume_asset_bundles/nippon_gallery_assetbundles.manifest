@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 3105617960
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 789afe80da52191ae085395c724e112c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45397b34e9b871ae5dc5d5e5f3fc4cc2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66f335fb1ffd8684294ad653bf1c7564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 353dfab4c70c732488255644a4c8d907, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ColorParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.FloatParameter
+Assets:
+- Assets/Src/Rooms/Nippon/src/lightmap.jpg
+- Assets/Src/Rooms/Nippon/src/room3DOriginal.fbx
+- Assets/Src/Rooms/Nippon/src/room.prefab
+- Assets/Src/Rooms/Nippon/src/volume.asset
+Dependencies: []
