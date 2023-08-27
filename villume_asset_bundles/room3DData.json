@@ -1,0 +1,15 @@
+[
+    {
+        "name" : "Nippon Gallery",
+        "model_name" : "nippon",
+        "url" : "https://github.com/esa08/files/raw/main/villume_asset_bundles/nippon_gallery_assetbundles",
+        "version" : "0.1",
+        "status" : "ready"
+    },
+    {
+        "name" : "Nippon Gallery",
+        "model_name" : "alexandria",
+        "url" : "",
+        "version" : "coming soon"
+    }
+]
