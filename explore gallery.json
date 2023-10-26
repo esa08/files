@@ -103,5 +103,65 @@
         "name" : "Ethereal Easel Gallery",
         "artist" : "Moonlight",
         "image" : "https://villume.com/assets/img/img-carousel-exhibition/img-5.png?t=1690952392993"
+    },
+    {
+        "name" : "Yores Hsom Gallery",
+        "artist" : "Rifki Nurmansyah",
+        "image" : "https://villume.com/assets/img/img-carousel-exhibition/img-1.png?t=1690952392993"
+    },
+    {
+        "name" : "Lormn Modern yurez",
+        "artist" : "Zephyr Midnight",
+        "image" : "https://villume.com/assets/img/img-carousel-exhibition/img-4.png?t=1690952392993"
+    },
+    {
+        "name" : "Harmony Art Gallery",
+        "artist" : "Thaddeus Phoenix",
+        "image" : "https://villume.com/assets/img/home/img-slide-5.jpg?t=1690952392993"
+    },
+    {
+        "name" : "Abstract Creativity Museum",
+        "artist" : "Seraphina Willow",
+        "image" : "https://villume.com/assets/img/home/img-slide-4.jpg?t=1690952392993"
+    },
+    {
+        "name" : "Cultural Expression Gallery",
+        "artist" : "Zephyr Midnight",
+        "image" : "https://villume.com/assets/img/img-carousel-exhibition/img-6.png?t=1690952392993"
+    },
+    {
+        "name" : "Museum of Imaginative Touch",
+        "artist" : "Thaddeus Phoenix",
+        "image" : "https://villume.com/assets/img/img-carousel-exhibition/img-5.png?t=1690952392993"
+    },
+    {
+        "name" : "Gallery of Future Art",
+        "artist" : "Elowen Rain",
+        "image" : "https://villume.com/assets/img/img-carousel-exhibition/img-5.png?t=1690952392993"
+    },
+    {
+        "name" : "Museum of Visual Innovation",
+        "artist" : "Caspian Storm",
+        "image" : "https://villume.com/assets/img/img-carousel-exhibition/img-5.png?t=1690952392993"
+    },
+    {
+        "name" : "Aesthetic Exploration Gallery",
+        "artist" : "Lysandra Starlight",
+        "image" : "https://villume.com/assets/img/img-carousel-exhibition/img-5.png?t=1690952392993"
+    },
+    {
+        "name" : "Digital Art Museum",
+        "artist" : "Aurelia Evergreen",
+        "image" : "https://villume.com/assets/img/img-carousel-exhibition/img-5.png?t=1690952392993"
+    },
+    {
+        "name" : "Chroma Power Gallery",
+        "artist" : "Aurelia Evergreen",
+        "image" : "https://villume.com/assets/img/img-carousel-exhibition/img-5.png?t=1690952392993"
+    },
+    {
+        "name" : "Form Harmony Museum",
+        "artist" : "Aurelia Evergreen",
+        "image" : "https://villume.com/assets/img/img-carousel-exhibition/img-5.png?t=1690952392993"
     }
 ]
