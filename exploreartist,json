@@ -1,0 +1,91 @@
+{
+    "passphrase": "endik20242161otvv",
+    "detail": {
+        "list_artists": [
+            {
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxbqxznakVcTrchmedop4o6wBILhkVpB4YorNxDt=s96-c",
+                "username": "adamnurdin03",
+                "first_name": "Dammar",
+                "last_name": "Ajj",
+                "about": null,
+                "email": "adamnurdin03@gmail.com",
+                "facebook_url": null,
+                "instagram_url": null,
+                "website_url": null,
+                "location": null
+            },
+            {
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GhOQ5U7qu4bpr_1tbYaBMuGUmioBUhgeFVoCH8=s96-c",
+                "username": "adamnurdin17",
+                "first_name": "Adam",
+                "last_name": "Muhammad Nurdin",
+                "about": null,
+                "email": "adamnurdin17@gmail.com",
+                "facebook_url": null,
+                "instagram_url": null,
+                "website_url": null,
+                "location": null
+            },
+            {
+                "avatar": null,
+                "username": "adamnurdin02",
+                "first_name": "Adam",
+                "last_name": "Nurdin",
+                "about": "",
+                "email": "adamnurdin02@gmail.com",
+                "facebook_url": "adam",
+                "instagram_url": "jordan",
+                "website_url": "",
+                "location": ""
+            },
+            {
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgieEI33WKPL7JhLZrLO36xHX3Iw1cLrPDGmPe3Og=s96-c",
+                "username": "adamnurdin01",
+                "first_name": "Muhammad",
+                "last_name": "Nurdin",
+                "about": "",
+                "email": "adamnurdin01@gmail.com",
+                "facebook_url": "adam-handsome",
+                "instagram_url": "adam-handsome",
+                "website_url": "https://adam-handsome.com",
+                "location": ""
+            },
+            {
+                "avatar": null,
+                "username": "testvillume2_ad0b",
+                "first_name": "Coba",
+                "last_name": "1",
+                "about": null,
+                "email": "testvillume2@gmail.com",
+                "facebook_url": null,
+                "instagram_url": null,
+                "website_url": null,
+                "location": null
+            },
+            {
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxZ12UIHZNdeBwpYhxpoK6U59LPtSTaDx7Dh-2_p6w=s96-c",
+                "username": "dadanibnu6969",
+                "first_name": "Ibnu Rizqia",
+                "last_name": "Ramadan",
+                "about": "qweqwe",
+                "email": "dadanibnu61@gmail.com",
+                "facebook_url": "qweqwe",
+                "instagram_url": "qweqwe",
+                "website_url": "https://qweqwe.com",
+                "location": "qweqwe"
+            },
+            {
+                "avatar": null,
+                "username": "testergothru122_5ad8",
+                "first_name": "Haji",
+                "last_name": "Tester",
+                "about": null,
+                "email": "testergothru122@gmail.com",
+                "facebook_url": null,
+                "instagram_url": null,
+                "website_url": null,
+                "location": null
+            }
+        ]
+    }
+}
