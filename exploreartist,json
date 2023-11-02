@@ -2,6 +2,18 @@
     "passphrase": "endo7202395qqc4ii",
     "detail": {
         "list_artists": [
+	    {
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIEmEFZVOT_pKBYlKR6ZuFNirPRThTZRxjhkKPRBBMLJw=s192-c-rg-br100",
+                "username": "ZxAkito",
+                "first_name": "Rifki",
+                "last_name": "Nurmansyah",
+                "about": "Apa coba",
+                "email": "zxakito89@gmail.com",
+                "facebook_url": "https://www.facebook.com/rifki.azumithosirokhawasima/",
+                "instagram_url": "https://www.instagram.com/rifki_nurmansyah",
+                "website_url": null,
+                "location": "Subang, Jawa Barat, Indonesia"
+            },
             {
                 "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgieEI33WKPL7JhLZrLO36xHX3Iw1cLrPDGmPe3Og=s96-c",
                 "username": "adamnurdin01",
@@ -241,18 +253,6 @@
                 "instagram_url": null,
                 "website_url": null,
                 "location": null
-            },
-		{
-                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIEmEFZVOT_pKBYlKR6ZuFNirPRThTZRxjhkKPRBBMLJw=s192-c-rg-br100",
-                "username": "ZxAkito",
-                "first_name": "Rifki",
-                "last_name": "Nurmansyah",
-                "about": "Apa coba",
-                "email": "zxakito89@gmail.com",
-                "facebook_url": "https://www.facebook.com/rifki.azumithosirokhawasima/",
-                "instagram_url": "https://www.instagram.com/rifki_nurmansyah",
-                "website_url": null,
-                "location": "Subang, Jawa Barat, Indonesia"
             },
             {
                 "avatar": null,
